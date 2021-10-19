@@ -1,7 +1,7 @@
 # INSTRUCTOR's VERSION: First Year Project 2021 @ ITU
 ## Project 1, Road collisions analysis
 
-This Github repository contains the instructor's teaching material for the [course](https://learnit.itu.dk/local/coursebase/view.php?ciid=590) project, lasting for 4-5 lectures. This is a data analysis project for first year data science students, after they have learned programming basics. It teaches the students:
+This Github repository contains the instructor's teaching material for the [course](https://learnit.itu.dk/local/coursebase/view.php?ciid=590) project, lasting for 4-5 lectures. This is a data analysis project for first year data science students, after they have learned the basics of programming and data science. It teaches the students:
 
 -	Exploring and transforming real raw data, making numerical and visual reports
 -	Connecting data tables (accidents, vehicles, casualties)
